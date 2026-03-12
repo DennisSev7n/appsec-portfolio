@@ -55,7 +55,7 @@ Examples include:
 - authentication bypass
 - business logic vulnerabilities
 
-Writeups available in the vulnerability-writeups repository.
+Writeups available here: https://github.com/DennisSev7n/vulnerability-writeups
 
 ---
 
