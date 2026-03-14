@@ -20,6 +20,18 @@ This repository highlights my practical security work including vulnerability di
 
 ## Security Projects
 
+### Web Application Security Testing Labs
+Collection of practical vulnerability discoveries from security labs.
+
+Examples include:
+- SQL Injection
+- IDOR
+- authentication bypass
+- business logic vulnerabilities
+
+Writeups available here: https://github.com/DennisSev7n/vulnerability-writeups
+
+---
 ### Automated Phishing Email Analyzer
 Python tool that analyzes email files (.eml) to detect phishing indicators.
 
@@ -45,20 +57,6 @@ Features:
 Project link: https://github.com/DennisSev7n/LogIQ
 
 ---
-
-### Web Application Security Testing Labs
-Collection of practical vulnerability discoveries from security labs.
-
-Examples include:
-- SQL Injection
-- IDOR
-- authentication bypass
-- business logic vulnerabilities
-
-Writeups available here: https://github.com/DennisSev7n/vulnerability-writeups
-
----
-
 ## Current Focus
 
 Currently learning and practicing:
