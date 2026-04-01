@@ -32,6 +32,19 @@ Examples include:
 Writeups available here: https://github.com/DennisSev7n/vulnerability-writeups
 
 ---
+### Mobile Application Security Testing Labs
+Collection of practical vulnerability discoveries from mobile application security labs.
+
+Includes:
+- Authentication & Session
+- IDOR
+- authentication bypass
+- Input Manipulation
+- business logic vulnerabilities
+
+Writeups available here: https://github.com/DennisSev7n/mobile-appsec-portfolio
+
+---
 ### Automated Phishing Email Analyzer
 Python tool that analyzes email files (.eml) to detect phishing indicators.
 
